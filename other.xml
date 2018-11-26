@@ -1,0 +1,14 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="G:/Program Files/nodejs/node.exe">
+      <version-cache version="10.5.0" last-modified="1529488340000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_MOVE_TO_ANOTHER_CLASS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

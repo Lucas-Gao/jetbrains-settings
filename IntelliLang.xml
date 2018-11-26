@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>OngoingStubbing.thenReturn (org.mockito.stubbing)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("thenReturn").withParameters("java.lang.Object").definedInClass("org.mockito.stubbing.OngoingStubbing"))]]></place>
+    </injection>
+  </component>
+</application>

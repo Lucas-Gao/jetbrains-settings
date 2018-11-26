@@ -1,0 +1,3 @@
+<application>
+  <component name="MavenVersion" vmOptions="-Xmx768m -Dhttp.proxyHost=proxy.cmcc -Dhttp.proxyPort=8080 -Dhttps.proxyHost=proxy.cmcc -Dhttps.proxyPort=8080" embedderJdk="1.8" />
+</application>
