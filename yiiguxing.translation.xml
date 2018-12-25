@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immutable" />
+      <item value="imposes" />
       <item value="去重" />
       <item value="Barrier" />
       <item value="Cyclic" />
