@@ -4,12 +4,13 @@
     <extensionMap>
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
