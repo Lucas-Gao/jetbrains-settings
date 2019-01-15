@@ -46,46 +46,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.6 interpreter library">
-      <CLASSES>
-        <root url="file://G:/Program Files/Python36/DLLs" />
-        <root url="file://G:/Program Files/Python36/Lib" />
-        <root url="file://G:/Program Files/Python36" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32/lib" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/pythonwin" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/956616571" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://G:/Program Files/Python36/DLLs" />
-        <root url="file://G:/Program Files/Python36/Lib" />
-        <root url="file://G:/Program Files/Python36" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/win32/lib" />
-        <root url="file://G:/Program Files/Python36/Lib/site-packages/pythonwin" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/956616571" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
   </component>
 </application>
