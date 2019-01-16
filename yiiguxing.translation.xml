@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="lastLanguages">
+      <language-pair target="CHINESE" />
+    </option>
     <histories>
+      <item value=" Marker to indicate a node is waiting in shared mode" />
+      <item value="spinlocks" />
+      <item value="Craig" />
+      <item value="variant" />
+      <item value="exclusive Owner Thread" />
+      <item value="exclusiveOwnerThread" />
+      <item value="Composite" />
+      <item value="internally" />
+      <item value="instrumentation" />
+      <item value="inspection" />
       <item value="优先级" />
       <item value="immutable" />
       <item value="imposes" />
@@ -18,13 +31,13 @@
       <item value="factor" />
       <item value="Privileges" />
       <item value="failed" />
-      <item value="Composite" />
       <item value="acquired" />
       <item value="Phone Number" />
       <item value="Employment Period" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="1" />
       </map>
     </option>
