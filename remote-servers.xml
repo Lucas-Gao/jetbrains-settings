@@ -12,7 +12,8 @@
     </remote-server>
     <remote-server name="wx.Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://119.29.174.148:2375" />
+        <option name="apiUrl" value="tcp://tencent.lucas.xyz:2375" />
+        <option name="certificatesPath" value="D:\OneDrive\Docker\CA" />
       </configuration>
     </remote-server>
   </component>
