@@ -3,5 +3,6 @@
     <option name="PROXY_HOST" value="proxy.cmcc" />
     <option name="PROXY_PORT" value="8080" />
     <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://start.spring.io/ " />
   </component>
 </application>
