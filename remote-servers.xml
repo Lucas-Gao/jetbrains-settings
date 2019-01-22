@@ -10,7 +10,7 @@
         <option name="apiUrl" value="tcp://45.79.165.248:2375" />
       </configuration>
     </remote-server>
-    <remote-server name="wx.Docker" type="docker">
+    <remote-server name="TencentCloud" type="docker">
       <configuration>
         <option name="apiUrl" value="https://119.29.174.148:2376" />
         <option name="certificatesPath" value="D:\OneDrive\Docker\tencent\ca" />
