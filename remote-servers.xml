@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="vm1.Docker" type="docker">
+    <remote-server name="local.Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
